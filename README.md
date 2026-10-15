@@ -1,1 +1,1 @@
-# my first git project
+git lab project (main branch version)
